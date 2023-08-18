@@ -8,7 +8,22 @@ php, laravel, tailwind
 
 ### How to set up ###
 #### Requirement ####
-
+node, composer
+#### Installation ####
+```
+npm install
+composer install
+```
+#### Database ####
+```
+php artisan migrate
+php artisan db:seed
+```
+#### Live ####
+```
+npm run dev
+php artisan serve
+```
 ### Screenshot ###
 ![login](https://github.com/Melkijo/monstreet-online-store/assets/93898408/febc0733-fbac-463b-898c-2ab8ed623ea2) <br/>
 ![admin-product](https://github.com/Melkijo/monstreet-online-store/assets/93898408/ff0d056e-d367-4e4a-8172-e921d6849ca6) <br/>
