@@ -14,12 +14,13 @@ Monstreet is an online clothing brand that offers bold, modern and unique styles
 ### Tech Stack ###
 php, laravel, tailwind, daisyui
 
-### Setup ###
+### Setup Locally ###
 #### Requirement ####
 node, composer
 #### Git ####
 ```
 git clone https://github.com/Melkijo/monstreet-online-store.git
+cd monstreet-online-store
 ```
 #### Installation ####
 ```
@@ -27,7 +28,8 @@ npm install
 composer install
 ```
 #### Database ####
-change the `.env.example` to `.env` file, set your database using mysql or sqlite
+change the `.env.example` to `.env` file, and set your database using MySQL or SQLite <br/>
+how to set database using SQlite : [here](https://laravel.com/docs/10.x/database#sqlite-configuration)
 ```
 php artisan migrate
 php artisan db:seed
@@ -35,7 +37,23 @@ php artisan db:seed
 #### Live ####
 ```
 npm run dev
+```
+Using another terminal in the same directory run this:
+```
 php artisan serve
+```
+the server will running on http://127.0.0.1:8000 or you can see in the `php artisan serve` info
+
+#### account ####
+```
+admin
+email: admin@admin.com
+pass: admin123
+```
+```
+user
+email: user@example.com
+pass: user123
 ```
 ### Screenshot ###
 ![login](https://github.com/Melkijo/monstreet-online-store/assets/93898408/febc0733-fbac-463b-898c-2ab8ed623ea2) <br/>
