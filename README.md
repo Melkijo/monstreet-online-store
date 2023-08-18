@@ -1,2 +1,2 @@
 # MONSTREET #
-![alt text]([http://url/to/img.png](https://drive.google.com/drive/folders/1hykktxMues8k0_NXRAoss6CXXm9ZT0Bt?hl=id)https://drive.google.com/drive/folders/1hykktxMues8k0_NXRAoss6CXXm9ZT0Bt?hl=id)
+![hero]([[http://url/to/img.png](https://drive.google.com/drive/folders/1hykktxMues8k0_NXRAoss6CXXm9ZT0Bt?hl=id)https://drive.google.com/drive/folders/1hykktxMues8k0_NXRAoss6CXXm9ZT0Bt?hl=id](https://firebasestorage.googleapis.com/v0/b/monstreet-f37e4.appspot.com/o/hero.png?alt=media&token=a9ffb07d-dcbb-4574-b53c-e5c485db034c)https://firebasestorage.googleapis.com/v0/b/monstreet-f37e4.appspot.com/o/hero.png?alt=media&token=a9ffb07d-dcbb-4574-b53c-e5c485db034c)
