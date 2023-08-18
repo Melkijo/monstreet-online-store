@@ -37,6 +37,9 @@ php artisan db:seed
 #### Live ####
 ```
 npm run dev
+```
+Using another terminal run this:
+```
 php artisan serve
 ```
 the server will running on http://127.0.0.1:8000 or you can see in the `php artisan serve` info
