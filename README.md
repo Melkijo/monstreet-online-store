@@ -38,7 +38,7 @@ php artisan db:seed
 ```
 npm run dev
 ```
-Using another terminal run this:
+Using another terminal in the same directory run this:
 ```
 php artisan serve
 ```
