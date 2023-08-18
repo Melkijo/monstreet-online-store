@@ -35,7 +35,7 @@
                     <div class="dropdown dropdown-end">
                         <label tabindex="0" class="btn btn-ghost btn-circle avatar">
                             <div class="w-10 rounded-full  border-white border-2">
-                                <img src="/assets/carousel1.jpg" alt="IMG" />
+                                <img src="/assets/avatar.png" alt="IMG" />
                             </div>
                         </label>
                         <ul tabindex="0"
