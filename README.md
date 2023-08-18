@@ -14,7 +14,7 @@ Monstreet is an online clothing brand that offers bold, modern and unique styles
 ### Tech Stack ###
 php, laravel, tailwind, daisyui
 
-### Setup ###
+### Setup Locally ###
 #### Requirement ####
 node, composer
 #### Git ####
@@ -29,7 +29,7 @@ composer install
 ```
 #### Database ####
 change the `.env.example` to `.env` file, and set your database using MySQL or SQLite <br/>
-how to set database using SQlite : [here][https://laravel.com/docs/10.x/database#sqlite-configuration]
+how to set database using SQlite : [here](https://laravel.com/docs/10.x/database#sqlite-configuration)
 ```
 php artisan migrate
 php artisan db:seed
