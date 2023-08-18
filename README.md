@@ -42,13 +42,13 @@ php artisan serve
 the server will running on http://127.0.0.1:8000 or you can see in the `php artisan serve` info
 
 #### account ####
-##### admin #####
 ```
+admin
 email: admin@admin.com
 pass: admin123
 ```
-##### user #####
 ```
+user
 email: user@example.com
 pass: user123
 ```
