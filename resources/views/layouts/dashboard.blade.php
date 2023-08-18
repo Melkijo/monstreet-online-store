@@ -31,7 +31,7 @@
 
         </div>
 
-
+        <script src="https://kit.fontawesome.com/24230ed149.js" crossorigin="anonymous"></script>
     </body>
 
     </html>

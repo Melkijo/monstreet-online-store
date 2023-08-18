@@ -2,7 +2,7 @@
 @section('content')
 
     <div class="my-10">
-        <img class=" mx-auto rounded-xl h-80 w-full object-cover" src="./assets/carousel3.jpg" alt="">
+        <img class=" mx-auto rounded-xl h-[450px] w-full object-cover" src="./assets/hero.png" alt="">
     </div>
 
 

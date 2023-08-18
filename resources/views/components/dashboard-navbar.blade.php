@@ -1,4 +1,4 @@
-<div class="navbar bg-[#100F0F]">
+<div class="navbar backdrop-blur-sm bg-white/30 bg-opacity-30 py-3">
     <div class="flex-1">
         <a href="/" class="btn btn-ghost normal-case text-xl text-white">MONSTREET</a>
     </div>
