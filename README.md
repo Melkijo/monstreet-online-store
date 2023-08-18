@@ -2,7 +2,15 @@
 ![hero](https://github.com/Melkijo/monstreet-online-store/assets/93898408/a9185e20-fcad-45ae-8f17-2a2811b49f0f)
 ### Description project ###
 Monstreet is an online clothing brand that offers bold, modern and unique styles for individuals who want to express their personality through clothing. With a focus on the latest fashion trends and innovative designs, Monstreet has become the go-to destination for those seeking clothing that is not only comfortable and quality, but also reflects the urban spirit that is full of energy.
-
+### Features ###
+- Authentication (login, register)
+- Multi-user (admin, customer)
+- Searching product
+- Pagination product
+- CRUD product
+- Order History
+- Product cart
+- Checkout
 ### Tech Stack ###
 php, laravel, tailwind
 
