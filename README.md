@@ -12,7 +12,7 @@ Monstreet is an online clothing brand that offers bold, modern and unique styles
 - Product cart
 - Checkout
 ### Tech Stack ###
-php, laravel, tailwind
+php, laravel, tailwind, daisyui
 
 ### How to set up ###
 #### Requirement ####
@@ -23,6 +23,7 @@ npm install
 composer install
 ```
 #### Database ####
+change the .env.example to .env file, set your database using mysql or sqlite
 ```
 php artisan migrate
 php artisan db:seed
