@@ -20,6 +20,7 @@ node, composer
 #### Git ####
 ```
 git clone https://github.com/Melkijo/monstreet-online-store.git
+cd monstreet-online-store
 ```
 #### Installation ####
 ```
@@ -27,7 +28,8 @@ npm install
 composer install
 ```
 #### Database ####
-change the `.env.example` to `.env` file, set your database using mysql or sqlite
+change the `.env.example` to `.env` file, and set your database using MySQL or SQLite
+how to set database using SQlite : [here][https://laravel.com/docs/10.x/database#sqlite-configuration]
 ```
 php artisan migrate
 php artisan db:seed
@@ -37,6 +39,16 @@ php artisan db:seed
 npm run dev
 php artisan serve
 ```
+the server will running on http://127.0.0.1:8000 or you can see in the `php artisan serve` info
+
+account
+##### admin #####
+email: admin@admin.com
+pass: admin123
+##### user #####
+email: user@example.com
+pass: user123
+
 ### Screenshot ###
 ![login](https://github.com/Melkijo/monstreet-online-store/assets/93898408/febc0733-fbac-463b-898c-2ab8ed623ea2) <br/>
 ![admin-product](https://github.com/Melkijo/monstreet-online-store/assets/93898408/ff0d056e-d367-4e4a-8172-e921d6849ca6) <br/>
