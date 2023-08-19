@@ -55,7 +55,9 @@ user
 email: user@example.com
 pass: user123
 ```
+
 ### Screenshot ###
+![home](https://github.com/Melkijo/monstreet-online-store/assets/93898408/015ed5c6-82a5-44b0-99da-f4caa5200a95)
 ![login](https://github.com/Melkijo/monstreet-online-store/assets/93898408/febc0733-fbac-463b-898c-2ab8ed623ea2) <br/>
 ![admin-product](https://github.com/Melkijo/monstreet-online-store/assets/93898408/ff0d056e-d367-4e4a-8172-e921d6849ca6) <br/>
 ![admin-add-product](https://github.com/Melkijo/monstreet-online-store/assets/93898408/a780a357-02b5-498e-b63e-7e0bfa1ffb45) <br/>
